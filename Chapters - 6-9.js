@@ -1,4 +1,4 @@
-/* Tasks of Chapter 6-9 */
+/* Tasks of Chapters 6-9 */
 
 /* task-01 */
 var val = 10;

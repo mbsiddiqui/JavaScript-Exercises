@@ -1,29 +1,29 @@
-/* Tasks of Chapter - 9-11 */
+/* Tasks of Chapters - 9-11 */
 
 /* task-01 */
 var city = prompt("Enter the city name: ");
-if (city.toLowerCase == "karachi"){
+if (city.toLowerCase() == "karachi"){
     alert("Welcome to city of lights");
 }
 
 /* task-02 */
 var gender = prompt("Enter your gender: ");
-if (gender.toLowerCase == "male"){
+if (gender.toLowerCase() == "male"){
     alert("Good Morning Sir");
 }
-else if (gender.toLowerCase == "female"){
+else if (gender.toLowerCase() == "female"){
     alert("Good Morning Ma'am");
 }
 
 /* task-03 */
 var color = prompt("Enter the color of traffic signal: ");
-if (color.toLowerCase == "red"){
+if (color.toLowerCase() == "red"){
     alert("Must Stop");
 }
-else if (color.toLowerCase == "yellow"){
+else if (color.toLowerCase() == "yellow"){
     alert("Ready to move");
 }
-else if (color.toLowerCase == "green"){
+else if (color.toLowerCase() == "green"){
     alert("Move Now");
 }
 
